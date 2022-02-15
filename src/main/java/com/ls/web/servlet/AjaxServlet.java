@@ -23,6 +23,8 @@ public class AjaxServlet extends HttpServlet {
         System.out.println("push test new new new");
         System.out.println("push 4087");
 
+        System.out.println("安辰是狗!!");
+
 
     }
 
