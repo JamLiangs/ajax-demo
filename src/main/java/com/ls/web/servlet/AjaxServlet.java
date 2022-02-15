@@ -14,6 +14,9 @@ public class AjaxServlet extends HttpServlet {
         response.getWriter().write("hello ajax");
 
 
+        System.out.println("hello git");
+
+
     }
 
     @Override
